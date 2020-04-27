@@ -3,7 +3,7 @@ Medical National Comunication Platform [RO]
 
 > As a baseline this was created for the country of Romania and its 41 counties.
 
-The concept is simple, this is a server designed for direct communication and coordination useable by any client app, or web browser. With levels of access and permissions based on the users role:
+The concept is simple, this is a server designed for direct communication, sharing of vital data and coordination useable on any client phone, tablet, laptop or PC discord app, or a simple web browser. With levels of access and permissions based on the users role:
 - Donator
 - Volunteer
 - Nurse
