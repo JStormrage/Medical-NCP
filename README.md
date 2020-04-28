@@ -4,8 +4,9 @@ Medical National Comunication Platform [RO]
 > As a baseline this was created for the country of Romania and its 41 counties.
 
 The concept is simple, this is a server designed for direct communication, sharing of vital data and coordination useable on any client phone, tablet, laptop or PC discord app, or a simple web browser. With levels of access and permissions based on the users role:
-- Donator
+- Donor
 - Volunteer
+- Supply & Transport
 - Nurse
 - Doctor
 - Manager
@@ -36,7 +37,16 @@ Romanian description below
 
 Conceptul este simplu, o platformă de comunicare și coordonare directă, cu nivele de accese si permisiuni în funcție de rol, ce poate fi customizată după nevoile și managementul fiecărei zone.
 
-Pentru a începe acesează linkul din orice web browser:
+Fiecare cetățean se poate implica în unul din următoarele roluri, pentru a se coordona la nivel național sau local:
+- Donator
+- Voluntar
+- Distribuție
+- Asistență medicală
+- Doctor
+- Manager
+- Cercetător
+
+Pentru a începe acesează linkul următor din orice web browser:
 https://invite.gg/joinncpro
 
 și loghează-te cu platforma ta socială preferată.
